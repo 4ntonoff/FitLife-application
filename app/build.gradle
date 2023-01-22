@@ -5,6 +5,7 @@ plugins {
 android {
     compileSdk 32
 
+
     defaultConfig {
         applicationId "com.example.fitlife"
         minSdk 26
@@ -28,6 +29,7 @@ android {
     buildFeatures {
         viewBinding true
     }
+    namespace 'com.example.fitlife'
 }
 
 dependencies {

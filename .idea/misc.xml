@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
+        <entry key="..\:/Users/creci/AndroidStudioProjects/FitLife-application/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+=======
         <entry key="..\:/Users/Alex/AndroidStudioProjects/FitLife-application/app/src/main/res/layout/fragment_first.xml" value="0.22" />
+>>>>>>> 3435a325bcf2264ed06cb2d66bc7e4ce99592eb2
       </map>
     </option>
   </component>
